@@ -1,5 +1,12 @@
 Change Log
 ==========
+### v2026.5.1 (05 may 2026)
+- Add new tracker statuses for qBittorrent v5.2.0 (#613)
+
+### v2026.5.0 (03 may 2026)
+- Advertise support for qBittorrent v5.2.0
+- Add support for torrent setComment endpoints (#610)
+
 ### v2025.11.1 (20 nov 2025)
 - Advertise support for qBittorrent v5.1.4
 
